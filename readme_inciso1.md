@@ -1,4 +1,4 @@
-#Informacion
+# Informacion
 
 Este repositorio es para practicar el flujo de Github
 
